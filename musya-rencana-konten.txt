@@ -1,6 +1,8 @@
 RENCANA KONTEN MUSYA
 
 - HTML
+  * HTML Dasar
 - CSS
+  * CSS Dasar
 - Javascript
 - Vlog
