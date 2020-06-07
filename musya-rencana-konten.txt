@@ -6,7 +6,8 @@ RENCANA KONTEN MUSYA
   * CSS Dasar
 - Javascript
   * Framework Javascript
-    ^ Angular
-    ^ React
+    ^ vue
+    ^ react
+- Stuktur Data Dasar
 - Vlog
 - Python
